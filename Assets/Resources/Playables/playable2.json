@@ -1,0 +1,20 @@
+{
+    "AssetId": "BlueShip",
+    "Name": "blue",
+    "Attributes": {
+			"List": [
+			{
+				"Id": "health",
+				"Value": 300
+			},
+			{
+				"Id": "maxhealth",
+				"Value": 300
+			},
+			{
+				"Id": "damage",
+				"Value": 50
+			}
+		]
+	}
+}
